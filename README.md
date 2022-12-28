@@ -106,7 +106,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 		- Select department dropdown menu -> System Administrators
 		- Select Role dropdown menu -> Supreme Admin
 	- Extended Accesss 
-		- Select Department -> Support -> Add
+		- Select Department -> Support -> Add -> Supreme Admin
 - Select Teams tab
 	- Select team dropdown menu -> Level II Support
 	- Select Add
