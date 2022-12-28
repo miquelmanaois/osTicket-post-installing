@@ -105,6 +105,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Under Primary Department 
 		- Select department dropdown menu -> System Administrators
 		- Select Role dropdown menu -> Supreme Admin
+	- Extended Accesss 
+		- Select Department -> Support -> Add
 - Select Teams tab
 	- Select team dropdown menu -> Level II Support
 	- Select Add
@@ -114,7 +116,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
 	- Extended Accesss 
-		- Select Department -> Support
+		- Select Department -> Support -> Add
 		
 <p align="center">
 <img src="https://i.imgur.com/QhE5p74.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/I5yvFc4.png" height="70%" width="70%" alt="Azure Free Services"/>
