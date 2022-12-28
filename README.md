@@ -125,37 +125,60 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Step 7: Configure Users
 </h3>
 
-- Search for Internet Information Services (IIS) and select open
-- On the left, select Sites -> Default Website -> osTicket
-- On the right, click “Browse *:80”
-- Before continuing, head back to and open IIS.
-
+- Make sure you are in Agent panel (check top right to see which panel you are in)
+- Select Users tab to create user
+	- Email Address: Karen@osticket.com
+	- Full Name - Karen Karen
+	- Select Add User
+- Select user tab again to create another user
+	- Email Address: Ken@osticket.com
+	- Full Name - Ken Ken
+	- Select Add User
 
 <p align="center">
 <img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Step 8:  Configure SLA
+<h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
 
-- Go back to IIS, Sites -> Default Web Site -> osTicket
-- Double-click PHP Manager
-- Click “Enable or disable an extension” at the bottom under “PHP Extensions”
-- Right click and enable the following
-    - php_imap.dll
-    - php_intl.dll
-    - Php_opcache.dll
+- Make sure you are in admin panel (check top right to see which panel you are in)
+- Select Manage tab -> SLA -> Add New SLA Plan (We are creating 3)
+	- Name: SEV-A 			
+	- Grace Period: 1
+	- Schedule dropdown menu: 24/7
+	- Select Add Plan
+	
+<p align="center">
+<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
 
- 
-     
- <p align="center">
-<img src="https://i.imgur.com/14pPOdv.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/okabWbT.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+- Name: SEV-B
+- Grace Period: 4
+- Schedule dropdown menu: 24/7
+- Select Add Plan
+	
+<p align="center">
+<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+
+- Name: SEV-C 
+- Grace Period: 8
+- Schedule dropdown menu: Monday - Friday 8AM - 5PM with U.S Holidays
+- Select Add Plan
+
+<p align="center">
+<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+
+
 
 <h3>Step 9:   Configure Help Topics
 </h3>
 
-- Intl Extension should now have a green check mark next to it
-
+-  Make sure you are in admin panel (check top right to see which panel you are in)
+- Select Manage tab -> Help Topics -> Add New Help Topic (We will be adding 4)
+	- Business Critical Outage
+	- Personal Computer Issues
+	- Equipment Request
+	- Password Reset
+- Select Add Topic for each topic
 
 <p align="center">
 <img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
