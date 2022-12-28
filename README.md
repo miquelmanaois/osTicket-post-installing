@@ -39,7 +39,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Installation Steps</h2>
 
-<h3>Step 1: Open osTicket and use credentials from installation tutorial </h3>
+<h3>Step 1: Open osTicket and log in using credentials from installation tutorial </h3>
 
 - If you need help installing osTicket, please see my tutorial [here]
 
