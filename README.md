@@ -33,7 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
 	- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
 	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
-	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html).
+	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html)
 	
    
 
@@ -187,4 +187,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 
-
+🎉Congratulations! You have set up osTicket succesfully!🎉 Click [here](https://github.com/miquelmanaois/Ticketlifesyle) to move on to the final part of this tutorial! 
