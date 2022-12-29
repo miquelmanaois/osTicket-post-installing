@@ -46,6 +46,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h3>Step 2: Configure Roles </h3>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
+	- If the top right says "agent" you are in the admin panel
 - Select the Agents tab -> Roles -> Add New Role
 	- Name : Supreme Admin
 	- Select Permissions tab and check every box under the "Tickets" and "Tasks" section
@@ -128,6 +129,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </h3>
 
 - Make sure you are in Agent panel (check top right to see which panel you are in)
+	- If the top right says "admin" you are in the agent panel
 - Select Users tab to create user
 	- Email Address: Karen@osticket.com
 	- Full Name - Karen Karen
