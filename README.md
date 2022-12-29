@@ -89,6 +89,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select the Settings -> User Settings
 	- Check box next to: 
 		- Registration Required: Require registration and login to create tickets 
+		
+<p align="center">
+<img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 
 <h3>Step 6: Configure Agents</h3>
@@ -102,6 +105,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 		- Set your password to anything you like
 		- uncheck box that says "require password change at next login
 		- Select set
+		
+<p align="center">
+<img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>	
+
 - Select Access tab 
 	- Under Primary Department 
 		- Select department dropdown menu -> System Administrators
@@ -112,6 +119,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Select team dropdown menu -> Level II Support
 	- Select Add
 - Select Create	
+
+	
+<p align="center">
+<img src="https://i.imgur.com/Ed9wc2j.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
+
 - Create another agent and replace Jane with John.
 	- Follow same steps as above except make some changes to Primary Department
 		- Select department dropdown menu -> Support
@@ -140,7 +153,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/QhE5p74.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/I5yvFc4.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
 
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
