@@ -28,12 +28,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Good Things to Know</h2>
 
  - Click on specific positions for a better understanding!
- 	- [Roles]
-	- [Departments]
-	- [Teams] 
-	- [Agents]
-	- [Users]
-	- [SLA]
+ 	- [Roles](https://docs.osticket.com/en/latest/Admin/Agents/Roles.html)
+	- [Departments](https://docs.osticket.com/en/latest/Admin/Agents/Departments.html)
+	- [Teams](https://docs.osticket.com/en/latest/Admin/Agents/Teams.html) 
+	- [Agents](https://docs.osticket.com/en/latest/Admin/Agents/Agents.html)
+	- [Users](https://docs.osticket.com/en/latest/Agent/Users/User%20Directory.html).
+	- [Service Level Agreement(SLA)](https://docs.osticket.com/en/latest/Admin/Manage/SLA%20Plans.html).
 	
    
 
@@ -41,7 +41,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h3>Step 1: Open osTicket and log in using credentials from installation tutorial </h3>
 
-- If you need help installing osTicket, please see my tutorial [here]
+- If you need help installing osTicket, please see my tutorial [here](https://github.com/miquelmanaois/osticket-prereqs)
 
 <h3>Step 2: Configure Roles </h3>
 
