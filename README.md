@@ -43,17 +43,21 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - If you need help installing osTicket, please see my tutorial [here](https://github.com/miquelmanaois/osticket-prereqs)
 
+<p align="center">
+<img src="https://i.imgur.com/gAXVBO2.png" height="80%" width="80%" alt="Azure Free Account"/>	
+
+
 <h3>Step 2: Configure Roles </h3>
 
 - Make sure you are in admin panel (check top right to see which panel you are in)
 	- If the top right says "agent" you are in the admin panel
 - Select the Agents tab -> Roles -> Add New Role
 	- Name : Supreme Admin
-	- Select Permissions tab and check every box under the "Tickets" and "Tasks" section
+	- Select Permissions tab and check every box under the "Tickets", "Tasks" and "Knowledgebase" section
 - Select Add Role
 	
 <p align="center">
-<img src="https://i.imgur.com/Cxy8NM7.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/9tiOON2.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/CfCzRRk.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -66,7 +70,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 
 <p align="center">
-<img src="https://i.imgur.com/Cxy8NM7.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/f1eRIx4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/f2uEloL.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/X2dXwjY.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 
@@ -80,18 +84,18 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select create team. 
 	
 <p align="center">
-<img src="https://i.imgur.com/Ed9wc2j.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/v6zzN3N.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/4IieS80.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 <h3>Step 5: Allow anyone to create tickets</h3>
 
  Make sure you are in admin panel (check top right to see which panel you are in)
 - Select the Settings -> User Settings
-	- Check box next to: 
+	- Make sure box is unchecked: 
 		- Registration Required: Require registration and login to create tickets 
 		
 <p align="center">
-<img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 
 <h3>Step 6: Configure Agents</h3>
@@ -107,7 +111,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 		- Select set
 		
 <p align="center">
-<img src="https://i.imgur.com/nOv1FP1.png" height="80%" width="80%" alt="Azure Free Account"/>	
+<img src="https://i.imgur.com/fTvI0Ru.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/6OU5KqX.png" height="70%" width="70%" alt="Azure Free Services"/>
+</p>
 
 - Select Access tab 
 	- Under Primary Department 
@@ -122,7 +127,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 	
 <p align="center">
-<img src="https://i.imgur.com/Ed9wc2j.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/7ryNBQg.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/HPSPHNU.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/hotx1wo.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
 
 - Create another agent and replace Jane with John.
@@ -130,10 +135,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 		- Select department dropdown menu -> Support
 		- Select Role dropdown menu -> View only
 	- Extended Accesss 
-		- Select Department -> Support -> Add
+		- Select Department -> Support -> Save Changes
 		
 <p align="center">
-<img src="https://i.imgur.com/QhE5p74.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/I5yvFc4.png" height="70%" width="70%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/qQ8ckBr.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/KVPsUb4.png" height="70%" width="70%" alt="Azure Free Services"/>
 </p>
  
      
@@ -143,6 +148,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 - Make sure you are in Agent panel (check top right to see which panel you are in)
 	- If the top right says "admin" you are in the agent panel
+	
+<p align="center">
+<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+	
 - Select Users tab to create user
 	- Email Address: Karen@osticket.com
 	- Full Name - Karen Karen
