@@ -150,20 +150,23 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- If the top right says "admin" you are in the agent panel
 	
 <p align="center">
-<img src="https://i.imgur.com/kcd1jRf.png" height="80%" width="80%" alt="Azure Free Account"/>		
+<img src="https://i.imgur.com/UUqCK1d.png" height="80%" width="80%" alt="Azure Free Account"/>		
 	
 - Select Users tab to create user
 	- Email Address: Karen@osticket.com
 	- Full Name - Karen Karen
 	- Select Add User
-- Select user tab again to create another user
+	
+<p align="center">
+<img src="https://i.imgur.com/wpTn12W.png" height="80%" width="80%" alt="Azure Free Account"/>			
+	
+ - Select user tab again to create another user
 	- Email Address: Ken@osticket.com
 	- Full Name - Ken Ken
 	- Select Add User
 
 <p align="center">
-<img src="https://i.imgur.com/QhE5p74.png" height="70%" width="70%" alt="Azure Free Account"/> <img src="https://i.imgur.com/I5yvFc4.png" height="70%" width="70%" alt="Azure Free Services"/>
-</p>
+<img src="https://i.imgur.com/EXyy5Gq.png" height="80%" width="80%" alt="Azure Free Account"/>		
 
 <h3>Step 8:  Configure Service Level Agreements (SLA)
 </h3>
@@ -176,7 +179,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 	- Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/fMR4yMR.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3tQnihq.png" height="80%" width="80%" alt="Azure Free Services"/>
+</p>
 
 - Name: SEV-B
 - Grace Period: 4
@@ -184,7 +188,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select Add Plan
 	
 <p align="center">
-<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/pAbQPEP.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 - Name: SEV-C 
 - Grace Period: 8
@@ -192,7 +196,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select Add Plan
 
 <p align="center">
-<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/5cgn0oz.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
@@ -208,7 +212,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Select Add Topic for each topic
 
 <p align="center">
-<img src="https://i.imgur.com/okabWbT.png" height="60%" width="60%" alt="Azure Free Account"/>
+<img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
 
