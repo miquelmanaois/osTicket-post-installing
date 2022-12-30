@@ -22,8 +22,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure
 - Virtual Machine
 - osTicket 
-- Item 4
-- Item 5
+
 
 <h2>Good Things to Know</h2>
 
